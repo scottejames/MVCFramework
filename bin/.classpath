@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/scott/Projects/Java/JavaLibs/swt/osx/swt-debug.jar"/>
+	<classpathentry kind="lib" path="/Users/scott/Projects/Java/JavaLibs/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/scott/Projects/Java/JavaLibs/migdir/miglayout15-swt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repo/!svn/ver/100/trunk/MVCFramework/src
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repo/!svn/ver/100/trunk/MVCFramework/src/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repo/!svn/ver/100/trunk/MVCFramework/src/.project
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repo/!svn/ver/100/trunk/MVCFramework/src/log4j.properties
+END

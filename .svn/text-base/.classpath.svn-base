@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/swt/osx-coco/org.eclipse.swt_3.5.1.v3555a.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/migdir/miglayout15-swt.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/swt/osx-coco/org.eclipse.swt.cocoa.macosx.x86_64_3.5.1.v3555a.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

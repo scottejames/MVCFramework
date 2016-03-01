@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc
+END
+IDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/IDispatcher.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/Model.java
+END
+ViewSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/ViewSelection.java
+END
+DirectDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/DirectDispatcher.java
+END
+MultiDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/MultiDispatcher.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/Controller.java
+END
+BaseView.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/BaseView.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/View.java
+END
+ViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/ViewEvent.java
+END
+IReciever.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/IReciever.java
+END
+BaseController.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/BaseController.java
+END
+ChildView.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/!svn/ver/100/trunk/MVCFramework/src/scott/mvc/ChildView.java
+END

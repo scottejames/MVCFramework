@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repo/!svn/ver/89/trunk/MVCFramework
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repo/!svn/ver/100/trunk/MVCFramework/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repo/!svn/ver/100/trunk/MVCFramework/.project
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repo/!svn/ver/100/trunk/MVCFramework/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repo/!svn/ver/100/trunk/MVCFramework/build.xml
+END
